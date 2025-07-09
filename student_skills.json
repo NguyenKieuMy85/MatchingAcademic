@@ -1,0 +1,76 @@
+[
+    {
+      "student_id": "20520722",
+      "skills": [
+        "deep learning",
+        "image classification",
+        "convolutional neural networks (CNNs)",
+        "transfer learning",
+        "ensemble learning",
+        "data augmentation",
+        "feature concatenation",
+        "medical image analysis",
+        "model interpretability",
+        "evaluation using accuracy, precision, recall, F1-score"
+      ]
+    },
+    {
+      "student_id": "22520038",
+      "skills": [
+        "data mining",
+        "feature selection",
+        "machine learning",
+        "classification algorithms",
+        "text mining / keyword extraction",
+        "natural language processing",
+        "supervised learning",
+        "algorithm evaluation",
+        "information retrieval",
+        "data preprocessing"
+      ]
+    },
+    {
+      "student_id": "21522753",
+      "skills": [
+        "license plate detection",
+        "object detection using YOLOv5",
+        "object detection using Faster R-CNN",
+        "data augmentation",
+        "GAN-based image synthesis",
+        "rainy image simulation with SyRaGAN",
+        "deep learning in computer vision",
+        "convolutional neural networks (CNNs)",
+        "dataset preparation and enhancement",
+        "model evaluation using IOU and Precision"
+      ]
+    },
+    {
+      "student_id": "20521779",
+      "skills": [
+        "sentiment analysis",
+        "machine learning model evaluation",
+        "natural language processing",
+        "text data preprocessing",
+        "feature extraction from text",
+        "topic modeling",
+        "data analysis using Python",
+        "statistical analysis",
+        "model validation techniques"
+      ]
+    },
+    {
+      "student_id": "20521825",
+      "skills": [
+        "sentiment analysis",
+        "machine learning model evaluation",
+        "natural language processing",
+        "text data preprocessing",
+        "feature extraction from text",
+        "topic modeling",
+        "data analysis using Python",
+        "statistical analysis",
+        "model validation techniques"
+      ]
+    }
+  ]
+  

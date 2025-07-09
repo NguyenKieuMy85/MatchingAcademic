@@ -1,0 +1,141 @@
+[
+  {
+    "ID": "GV001",
+    "Lecturer": "Nguyễn Đình Thuân",
+    "Email": "thuannd@uit.edu.vn",
+    "keywords": [
+      "Time Series Analysis",
+      "Machine Learning",
+      "Data Mining",
+      "Fuzzy Logic",
+      "Financial Forecasting",
+      "Cryptocurrency Forecasting",
+      "Autism Spectrum Disorder",
+      "Document Image Analysis",
+      "Database Systems",
+      "E-commerce",
+      "Higher Education"
+    ],
+    "expertise": "The lecturer's core expertise encompasses time series analysis, machine learning, and data mining techniques applied to financial forecasting (including cryptocurrency markets), autism spectrum disorder classification, and document image analysis, alongside expertise in database systems and e-commerce, with a focus on digital transformation strategies in higher education.",
+    "interests": [
+      {
+        "group": "Forecasting and Prediction",
+        "items": [
+          "Time series forecasting (hybrid models, ARIMA, neural networks, fuzzy time series)",
+          "Financial forecasting",
+          "Cryptocurrency price prediction",
+          "Loan repayment prediction",
+          "Diarrhea prediction",
+          "Risk prediction"
+        ]
+      },
+      {
+        "group": "Data Science and Machine Learning Applications",
+        "items": [
+          "Data mining (association rule mining, cluster analysis, cyclic pattern mining)",
+          "Machine learning algorithms (SVM, Random Forest, Deep Learning)",
+          "Data analysis in healthcare and public health",
+          "Application of machine learning in blockchain and job recommendation systems",
+          "Autism spectrum disorder classification",
+          "Knowledge discovery techniques",
+          "Object detection"
+        ]
+      },
+      {
+        "group": "Databases, E-commerce, and Digital Transformation",
+        "items": [
+          "Database systems (SQL Server, NoSQL, MongoDB)",
+          "E-commerce analytics (Google Analytics, customer behavior analysis)",
+          "Web development and online booking systems",
+          "Digital transformation in higher education (Vietnamese universities)",
+          "Digital library development",
+          "Electronic commerce"
+        ]
+      }
+    ]
+  },
+  {
+    "ID": "GV002",
+    "Lecturer": "Nguyễn Thanh Bình",
+    "Email": "binhnt@uit.edu.vn",
+    "keywords": [
+      "genetic algorithm",
+      "integer programming",
+      "optimization model",
+      "scheduling",
+      "zero-min loss"
+    ],
+    "expertise": "The lecturer's core expertise lies in optimization modeling, algorithm design and analysis, with a specific focus on scheduling and resource allocation problems.",
+    "interests": [
+      "Algorithm Design and Performance Analysis",
+      "Optimization Model Applications (including Education)",
+      "Educational Resource Management (e.g., Proctor Assignment)"
+    ]
+  },
+  {
+    "ID": "GV003",
+    "Lecturer": "Cao Thị Nhạn",
+    "Email": "nhanct@uit.edu.vn",
+    "keywords": [
+      "Affective Computing",
+      "Credit Scoring",
+      "Customer Experience",
+      "Financial Modeling",
+      "Fuzzy Logic",
+      "Human-Computer Interaction",
+      "Image Processing",
+      "Intelligent Game Systems",
+      "Machine Learning",
+      "Natural Language Processing",
+      "Pattern Recognition",
+      "Robotics",
+      "Speech Emotion Recognition"
+    ],
+    "expertise": "The lecturer's core expertise lies in applying machine learning, particularly in affective computing (including speech and facial expression recognition), fuzzy logic systems, and computer vision, to financial modeling (especially credit scoring), customer experience improvement, and the development of intelligent game systems and human-computer interaction, with a focus on applications for small and medium-sized enterprises (SMEs).",
+    "interests": [
+      "Machine Learning for Finance and Affective Computing",
+      "Human-Computer Interaction and Intelligent Systems",
+      "Facial Expression and Speech Emotion Recognition",
+      "AI Applications for SMEs and Customer Service"
+    ]
+  },
+  {
+    "ID": "GV004",
+    "Lecturer": "Trần Hưng Nghiệp",
+    "Email": "nghiepth@uit.edu.vn",
+    "keywords": [
+      "Author Name Disambiguation",
+      "Community Detection",
+      "Recommendation Systems",
+      "Scientific Publication Recommendation",
+      "Social Network Analysis",
+      "Topic Modeling",
+      "Data Mining"
+    ],
+    "expertise": "The lecturer's core expertise lies in applying data mining and machine learning techniques, particularly deep neural networks, to social network analysis, focusing on community detection, topic modeling, and the development and improvement of recommendation systems, especially for scientific publications, including addressing challenges like author name disambiguation and data limitations.",
+    "interests": [
+      "Developing and Improving Recommendation Systems (Scientific Publications, Addressing Data Limitations)",
+      "Social Network Analysis and Community Detection (Applications to Scientific Publications, Influencer Identification)",
+      "Topic Modeling and its Applications (Large Datasets, Parallelization, Efficiency Improvements), Data Creation and Ground Truth Development"
+    ]
+  },
+  {
+    "ID": "GV005",
+    "Lecturer": "Nguyễn Thị Kim Phụng",
+    "Email": "phungntk@uit.edu.vn",
+    "keywords": [
+      "Bioinformatics",
+      "Graph Theory",
+      "Machine Learning",
+      "Natural Language Processing",
+      "Protein Structure Analysis",
+      "Text Mining"
+    ],
+    "expertise": "The lecturer's core expertise lies in applying graph theory, graph algorithms, and spectral analysis techniques to bioinformatics problems, specifically focusing on protein structure analysis, comparison, and visualization using graph databases.  This expertise also encompasses machine learning, natural language processing, and text mining methods for analyzing biological data and online text corpora, including the development and application of classification systems.",
+    "interests": [
+      "Graph-based bioinformatics and protein structure analysis",
+      "Text mining and Natural Language Processing applied to online content and bioinformatics",
+      "Machine learning algorithms and applications in bioinformatics and text analysis"
+    ]
+  }
+]

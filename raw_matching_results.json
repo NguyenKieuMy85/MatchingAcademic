@@ -1,0 +1,157 @@
+[
+  {
+    "student_id": "20520722",
+    "student_name": "Trần Văn Quang",
+    "matches": [
+      {
+        "lecturer_id": "GV001",
+        "lecturer_name": "Nguyễn Đình Thuân",
+        "similarity": 0.12997564536267806
+      },
+      {
+        "lecturer_id": "GV002",
+        "lecturer_name": "Nguyễn Thanh Bình",
+        "similarity": 0.03740108016830959
+      },
+      {
+        "lecturer_id": "GV003",
+        "lecturer_name": "Cao Thị Nhạn",
+        "similarity": 0.045900861967528586
+      },
+      {
+        "lecturer_id": "GV004",
+        "lecturer_name": "Trần Hưng Nghiệp",
+        "similarity": 0.09672362011373052
+      },
+      {
+        "lecturer_id": "GV005",
+        "lecturer_name": "Nguyễn Thị Kim Phụng",
+        "similarity": 0.07809245179191507
+      }
+    ]
+  },
+  {
+    "student_id": "22520038",
+    "student_name": "Bùi Huỳnh Quốc Anh",
+    "matches": [
+      {
+        "lecturer_id": "GV001",
+        "lecturer_name": "Nguyễn Đình Thuân",
+        "similarity": 0.16742266490913194
+      },
+      {
+        "lecturer_id": "GV002",
+        "lecturer_name": "Nguyễn Thanh Bình",
+        "similarity": 0.1049661636797016
+      },
+      {
+        "lecturer_id": "GV003",
+        "lecturer_name": "Cao Thị Nhạn",
+        "similarity": 0.06826973608649813
+      },
+      {
+        "lecturer_id": "GV004",
+        "lecturer_name": "Trần Hưng Nghiệp",
+        "similarity": 0.09687140881387278
+      },
+      {
+        "lecturer_id": "GV005",
+        "lecturer_name": "Nguyễn Thị Kim Phụng",
+        "similarity": 0.29502841151296966
+      }
+    ]
+  },
+  {
+    "student_id": "21522753",
+    "student_name": "Nguyễn Đại Anh Tuấn",
+    "matches": [
+      {
+        "lecturer_id": "GV001",
+        "lecturer_name": "Nguyễn Đình Thuân",
+        "similarity": 0.08114329434777735
+      },
+      {
+        "lecturer_id": "GV002",
+        "lecturer_name": "Nguyễn Thanh Bình",
+        "similarity": 0.014926072659168045
+      },
+      {
+        "lecturer_id": "GV003",
+        "lecturer_name": "Cao Thị Nhạn",
+        "similarity": 0.039982573986835496
+      },
+      {
+        "lecturer_id": "GV004",
+        "lecturer_name": "Trần Hưng Nghiệp",
+        "similarity": 0.12803734715115758
+      },
+      {
+        "lecturer_id": "GV005",
+        "lecturer_name": "Nguyễn Thị Kim Phụng",
+        "similarity": 0.027207498425466197
+      }
+    ]
+  },
+  {
+    "student_id": "20521779",
+    "student_name": "Trần Ngọc Mỹ Phương",
+    "matches": [
+      {
+        "lecturer_id": "GV001",
+        "lecturer_name": "Nguyễn Đình Thuân",
+        "similarity": 0.15683095527941815
+      },
+      {
+        "lecturer_id": "GV002",
+        "lecturer_name": "Nguyễn Thanh Bình",
+        "similarity": 0.11865206845582286
+      },
+      {
+        "lecturer_id": "GV003",
+        "lecturer_name": "Cao Thị Nhạn",
+        "similarity": 0.07380985718986674
+      },
+      {
+        "lecturer_id": "GV004",
+        "lecturer_name": "Trần Hưng Nghiệp",
+        "similarity": 0.1733799019002615
+      },
+      {
+        "lecturer_id": "GV005",
+        "lecturer_name": "Nguyễn Thị Kim Phụng",
+        "similarity": 0.32658277827528776
+      }
+    ]
+  },
+  {
+    "student_id": "20521825",
+    "student_name": "Đoàn Tú Quỳnh",
+    "matches": [
+      {
+        "lecturer_id": "GV001",
+        "lecturer_name": "Nguyễn Đình Thuân",
+        "similarity": 0.15683095527941815
+      },
+      {
+        "lecturer_id": "GV002",
+        "lecturer_name": "Nguyễn Thanh Bình",
+        "similarity": 0.11865206845582286
+      },
+      {
+        "lecturer_id": "GV003",
+        "lecturer_name": "Cao Thị Nhạn",
+        "similarity": 0.07380985718986674
+      },
+      {
+        "lecturer_id": "GV004",
+        "lecturer_name": "Trần Hưng Nghiệp",
+        "similarity": 0.1733799019002615
+      },
+      {
+        "lecturer_id": "GV005",
+        "lecturer_name": "Nguyễn Thị Kim Phụng",
+        "similarity": 0.32658277827528776
+      }
+    ]
+  }
+]
